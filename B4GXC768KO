@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://ioxayo.github.io/credential-status-8/B4GXC768KO#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACICf4f60vTEADAAAAAAAAAAAAAADwN_wEBkHUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
-  "issuanceDate": "2022-09-07T16:12:59.823Z",
+  "issuanceDate": "2022-09-07T17:12:53.870Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-09-07T16:12:59Z",
+    "created": "2022-09-07T17:12:53Z",
     "verificationMethod": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC#z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5VtrjF4Z1TbfaY44j35TsJ7B2tm6bo7KBtsNmxDBDJB8sSCQFCEMcuFVPbzoiTLbisMbcsev1TVoHWfnD7aHWT8c"
+    "proofValue": "z42TFTncUrcRqdDabNAZD1fRqRMUyxUBHHK4Cd5E9xcE2Cornj5i5GCSn7td6K6oRWXSArSeQtkKmufUNhKTdsW1g"
   }
 }
